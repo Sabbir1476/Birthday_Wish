@@ -39,8 +39,8 @@ document.addEventListener("DOMContentLoaded", function () {
     "December",
   ];
 
-  const targetDay = 6;
-  const targetMonthIndex = 7; // May
+  const targetDay = 9;
+  const targetMonthIndex = 10; // May
   const targetYear = 2026;
   const birthYear = 2003;
 
